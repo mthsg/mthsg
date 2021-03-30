@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mthsg
+- 👀 I’m interested in Product Management, Marketing & Design
+- 🌱 I’m an old webdev (old like I used to use Dojo, Prototype, script.aculo.us and never coded using Vue, React or even Angular)
+- 📫 How to reach me : https://www.linkedin.com/in/mthsg/
